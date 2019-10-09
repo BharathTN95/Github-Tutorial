@@ -1,2 +1,2 @@
-This is to test the commit operation
-It is not working properly
+This is to test the commit operation.
+It is not working properly.
